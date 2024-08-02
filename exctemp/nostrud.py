@@ -1,0 +1,1 @@
+binSpacing = 2
